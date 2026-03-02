@@ -11,9 +11,6 @@ Einfaches, lokales Web-Dashboard für **tagesaktuelle Spritpreise** (Bundesdurch
 - Dark / Light Mode per Button
 - CSV-Export der gesamten Historie
 
-## Vorschau
-
-*(Hier kommt bald ein Screenshot – am besten ein 3-Tab-Ansicht mit Preisen und Charts)*
 
 ## Features
 
